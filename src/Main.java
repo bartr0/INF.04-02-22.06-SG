@@ -26,6 +26,7 @@ public class Main {
         osoba3.Wypisz("Jan");
 
         System.out.println("Liczba zarejestrowanych osób to " + Osoba.counter);
+        //
 
     }
 }
